@@ -3,7 +3,7 @@ module.exports.config = {
   version: "2.0.0",
   permssion: 0,
   prefix: true,
-  credits: "Clarence DK",
+  credits: "nazrul",
   description: "Get fuck",
   category: "img",
   usages: "[@mention]",
